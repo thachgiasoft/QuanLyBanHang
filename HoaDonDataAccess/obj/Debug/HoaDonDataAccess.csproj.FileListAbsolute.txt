@@ -1,0 +1,74 @@
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\HoaDonDataAccess.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\HoaDonDataAccess.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Framework.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Npgsql.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Ultilities.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Mono.Security.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\CGCN.DataAccess.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Framework.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Ultilities.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\obj\Debug\HoaDonDataAccess.csprojResolveAssemblyReference.cache
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\obj\Debug\HoaDonDataAccess.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\obj\Debug\HoaDonDataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\HoaDonDataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\HoaDonDataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Framework.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Npgsql.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Ultilities.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Mono.Security.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Infragistics2.Shared.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Infragistics2.Win.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Infragistics2.Win.Misc.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\CGCN.DataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Framework.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\Ultilities.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\obj\Debug\HoaDonDataAccess.csprojResolveAssemblyReference.cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\obj\Debug\HoaDonDataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\HoaDonDataAccess\obj\Debug\HoaDonDataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\HoaDonDataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\HoaDonDataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Framework.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\Npgsql.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\Ultilities.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\Mono.Security.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\CGCN.DataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Framework.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\bin\Debug\Ultilities.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\obj\Debug\HoaDonDataAccess.csprojResolveAssemblyReference.cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\obj\Debug\HoaDonDataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\HoaDonDataAccess\obj\Debug\HoaDonDataAccess.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\HoaDonDataAccess.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\HoaDonDataAccess.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Configure.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\CGCN.DataAccess.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Framework.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\Npgsql.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\Ultilities.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\C1.Win.C1FlexGrid.2.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\Mono.Security.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Configure.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\CGCN.DataAccess.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\CGCN.Framework.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\Ultilities.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\bin\Debug\C1.Win.C1FlexGrid.2.xml
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\obj\Debug\HoaDonDataAccess.csprojResolveAssemblyReference.cache
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\obj\Debug\HoaDonDataAccess.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\HoaDonDataAccess\obj\Debug\HoaDonDataAccess.pdb

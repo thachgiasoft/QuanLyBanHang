@@ -1,0 +1,25 @@
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Configure\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Configure\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.Interface.frmConfigure.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.csproj.GenerateResource.Cache
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Configure\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Configure\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.Interface.frmConfigure.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.csproj.GenerateResource.Cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.Configure\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.Configure\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.Interface.frmConfigure.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.csproj.GenerateResource.Cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.Configure\bin\Debug\CGCN.Configure.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.Configure\bin\Debug\CGCN.Configure.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.Interface.frmConfigure.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.csproj.GenerateResource.Cache
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.Configure\obj\Debug\CGCN.Configure.csprojResolveAssemblyReference.cache

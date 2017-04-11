@@ -1,0 +1,28 @@
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\bin\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\bin\Debug\CGCN.DataAccess.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\obj\Debug\CGCN.DataAccess.csprojResolveAssemblyReference.cache
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\obj\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\obj\Debug\CGCN.DataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\bin\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\bin\Debug\CGCN.DataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\obj\Debug\CGCN.DataAccess.csprojResolveAssemblyReference.cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\obj\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.DataAccess\obj\Debug\CGCN.DataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.DataAccess\bin\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.DataAccess\bin\Debug\CGCN.DataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.DataAccess\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.DataAccess\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.DataAccess\obj\Debug\CGCN.DataAccess.csprojResolveAssemblyReference.cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.DataAccess\obj\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.DataAccess\obj\Debug\CGCN.DataAccess.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.DataAccess\bin\Debug\CGCN.DataAccess.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.DataAccess\bin\Debug\CGCN.DataAccess.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.DataAccess\bin\Debug\CGCN.Configure.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.DataAccess\bin\Debug\CGCN.Configure.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.DataAccess\obj\Debug\CGCN.DataAccess.csprojResolveAssemblyReference.cache
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.DataAccess\obj\Debug\CGCN.DataAccess.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.DataAccess\obj\Debug\CGCN.DataAccess.pdb

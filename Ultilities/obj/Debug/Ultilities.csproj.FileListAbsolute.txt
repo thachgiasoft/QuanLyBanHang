@@ -1,0 +1,67 @@
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\Ultilities.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\Ultilities.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\C1.Win.C1Command.2.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\C1.Win.C1Command.2.xml
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\obj\Debug\Ultilities.Form1.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\obj\Debug\Ultilities.csproj.GenerateResource.Cache
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\obj\Debug\Ultilities.dll.licenses
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\obj\Debug\Ultilities.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\obj\Debug\Ultilities.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\Ultilities.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\Ultilities.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\C1.Win.C1Command.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\Infragistics2.Shared.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\Infragistics2.Win.Misc.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\Infragistics2.Win.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\C1.Win.C1Command.2.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\obj\Debug\Ultilities.Form1.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\obj\Debug\Ultilities.csproj.GenerateResource.Cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\obj\Debug\Ultilities.dll.licenses
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\obj\Debug\Ultilities.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\Ultilities\obj\Debug\Ultilities.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\Ultilities\bin\Debug\Ultilities.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\Ultilities\bin\Debug\Ultilities.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\Ultilities\bin\Debug\C1.Win.C1Command.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\Ultilities\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\Ultilities\obj\Debug\Ultilities.Form1.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\Ultilities\obj\Debug\Ultilities.csproj.GenerateResource.Cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\Ultilities\obj\Debug\Ultilities.dll.licenses
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\Ultilities\obj\Debug\Ultilities.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\Ultilities\obj\Debug\Ultilities.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\Ultilities\bin\Debug\Ultilities.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\Ultilities\bin\Debug\Ultilities.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\Ultilities\bin\Debug\C1.Win.C1Command.2.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\Ultilities\bin\Debug\C1.Win.C1FlexGrid.2.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\Ultilities\bin\Debug\C1.Win.C1Command.2.xml
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\Ultilities\bin\Debug\C1.Win.C1FlexGrid.2.xml
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\Ultilities\obj\Debug\Ultilities.Form1.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\Ultilities\obj\Debug\Ultilities.csproj.GenerateResource.Cache
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\Ultilities\obj\Debug\Ultilities.dll.licenses
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\Ultilities\obj\Debug\Ultilities.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\Ultilities\obj\Debug\Ultilities.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\Ultilities\obj\Debug\Ultilities.csprojResolveAssemblyReference.cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\bin\Debug\Ultilities.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\bin\Debug\Ultilities.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\bin\Debug\C1.Win.C1Command.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\bin\Debug\Infragistics2.Shared.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\bin\Debug\Infragistics2.Win.Misc.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\bin\Debug\Infragistics2.Win.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\obj\Debug\Ultilities.csprojResolveAssemblyReference.cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\obj\Debug\Ultilities.Form1.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\obj\Debug\Ultilities.csproj.GenerateResource.Cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\obj\Debug\Ultilities.dll.licenses
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\obj\Debug\Ultilities.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\Ultilities\obj\Debug\Ultilities.pdb

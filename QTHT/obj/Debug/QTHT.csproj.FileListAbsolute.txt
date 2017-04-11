@@ -1,0 +1,242 @@
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\QTHT.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\QTHT.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\C1.Win.C1Command.2.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\CGCN.Framework.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Shared.v8.3.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Win.Misc.v8.3.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Win.v8.3.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\InputValidation.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Npgsql.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Ultilities.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Mono.Security.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\CGCN.DataAccess.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\CGCN.Framework.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Ultilities.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\C1.Win.C1Command.2.xml
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Shared.v8.3.xml
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Win.Misc.v8.3.xml
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.xml
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.xml
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.xml
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.xml
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Infragistics2.Win.v8.3.xml
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.csprojResolveAssemblyReference.cache
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.frmChangePass.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.frmChucNang.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.frmManagerUser.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.frmNguoiDungOfNhom.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.frmNhomNguoiDung.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.frmPhanQuyenNguoiDung.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucChucNang.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucChucVu.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucDangNhap.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucLog.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucManagerUser.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucNguoiDungOfNhom.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucNhomQuyen.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucPhanQuyenNguoiDung.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucPhongBan.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Properties.Resources.resources
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.csproj.GenerateResource.Cache
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.dll.licenses
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\QTHT.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\QTHT.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\C1.Win.C1Command.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\CGCN.Framework.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\InputValidation.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Npgsql.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Ultilities.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Mono.Security.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\CGCN.DataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\CGCN.Framework.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\Ultilities.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\C1.Win.C1Command.2.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.csprojResolveAssemblyReference.cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.frmChangePass.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.frmChucNang.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.frmManagerUser.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.frmNguoiDungOfNhom.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.frmNhomNguoiDung.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.frmPhanQuyenNguoiDung.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucChucNang.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucChucVu.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucDangNhap.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucLog.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucManagerUser.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucNguoiDungOfNhom.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucNhomQuyen.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucPhanQuyenNguoiDung.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Interface.ucPhongBan.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.Properties.Resources.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.csproj.GenerateResource.Cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.dll.licenses
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\QTHT\obj\Debug\QTHT.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\QTHT.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\QTHT.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\C1.Win.C1Command.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\CGCN.Framework.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Shared.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Win.Misc.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Win.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\InputValidation.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Npgsql.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Ultilities.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Mono.Security.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\CGCN.DataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\CGCN.Framework.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Ultilities.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Shared.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Win.Misc.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\Infragistics2.Win.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.csprojResolveAssemblyReference.cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.frmChangePass.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.frmChucNang.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.frmManagerUser.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.frmNguoiDungOfNhom.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.frmNhomNguoiDung.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.frmPhanQuyenNguoiDung.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.ucChucNang.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.ucChucVu.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.ucDangNhap.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.ucLog.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.ucManagerUser.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.ucNguoiDungOfNhom.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.ucNhomQuyen.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.ucPhanQuyenNguoiDung.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Interface.ucPhongBan.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.Properties.Resources.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.csproj.GenerateResource.Cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.dll.licenses
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\QTHT\obj\Debug\QTHT.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\QTHT.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\QTHT.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\C1.Win.C1Command.2.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\C1.Win.C1FlexGrid.2.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\CGCN.DataAccess.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\CGCN.Framework.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Shared.v8.3.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Win.Misc.v8.3.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Win.v8.3.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\InputValidation.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Npgsql.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Ultilities.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\CGCN.Configure.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Mono.Security.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\CGCN.DataAccess.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\CGCN.Framework.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Ultilities.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\C1.Win.C1Command.2.xml
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\C1.Win.C1FlexGrid.2.xml
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Shared.v8.3.xml
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Win.Misc.v8.3.xml
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.xml
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.xml
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.xml
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.xml
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\Infragistics2.Win.v8.3.xml
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\bin\Debug\CGCN.Configure.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.csprojResolveAssemblyReference.cache
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.frmChangePass.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.frmChucNang.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.frmManagerUser.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.frmNguoiDungOfNhom.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.frmNhomNguoiDung.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.frmPhanQuyenNguoiDung.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.ucChucNang.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.ucChucVu.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.ucDangNhap.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.ucLog.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.ucManagerUser.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.ucNguoiDungOfNhom.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.ucNhomQuyen.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.ucPhanQuyenNguoiDung.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Interface.ucPhongBan.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.Properties.Resources.resources
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.csproj.GenerateResource.Cache
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.dll.licenses
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\QTHT\obj\Debug\QTHT.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\QTHT.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\QTHT.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\C1.Win.C1Command.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\CGCN.DataAccess.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\CGCN.Framework.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Shared.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Win.Misc.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Win.v8.3.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\InputValidation.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Npgsql.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Ultilities.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\CGCN.Configure.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Mono.Security.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\CGCN.DataAccess.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\CGCN.Framework.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Ultilities.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Shared.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Win.Misc.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\Infragistics2.Win.v8.3.xml
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\bin\Debug\CGCN.Configure.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.csprojResolveAssemblyReference.cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.frmChangePass.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.frmChucNang.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.frmManagerUser.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.frmNguoiDungOfNhom.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.frmNhomNguoiDung.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.frmPhanQuyenNguoiDung.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.ucChucNang.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.ucChucVu.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.ucDangNhap.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.ucLog.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.ucManagerUser.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.ucNguoiDungOfNhom.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.ucNhomQuyen.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.ucPhanQuyenNguoiDung.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Interface.ucPhongBan.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.Properties.Resources.resources
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.csproj.GenerateResource.Cache
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.dll.licenses
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH_MaVach_14022016\QTHT\obj\Debug\QTHT.pdb

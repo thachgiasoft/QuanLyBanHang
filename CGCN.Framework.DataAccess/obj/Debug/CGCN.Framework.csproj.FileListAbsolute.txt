@@ -1,0 +1,17 @@
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.pdb
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.dll
+D:\2.WORK\4.Open project\QuanLyBanHang\QLBH\QLBH\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.dll
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.pdb
+F:\CacDuAn\QLBH_TUANVA\QLBH\QLBH\1.Code\QLBH\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.csprojResolveAssemblyReference.cache

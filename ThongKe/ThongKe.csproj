@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5AE4AF4C-037E-415C-AA7B-729B54929DDE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ThongKe</RootNamespace>
+    <AssemblyName>ThongKe</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CarlosAg.ExcelXmlWriter">
+      <HintPath>..\QLBH\bin\Debug\CarlosAg.ExcelXmlWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="CarlosAg.Utils">
+      <HintPath>..\QLBH\bin\Debug\CarlosAg.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\TKCongNo.cs" />
+    <Compile Include="Controls\TKCongNoNhap.cs" />
+    <Compile Include="Controls\TKDoanhThuByIDNV.cs" />
+    <Compile Include="Interface\frmTKCongNoNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmTKCongNoNhap.Designer.cs">
+      <DependentUpon>frmTKCongNoNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\frmTKCongNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmTKCongNo.Designer.cs">
+      <DependentUpon>frmTKCongNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\frmTKDoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmTKDoanhThu.Designer.cs">
+      <DependentUpon>frmTKDoanhThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Controls\TKDoanhThuAll.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Interface\frmTKCongNoNhap.resx">
+      <DependentUpon>frmTKCongNoNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\frmTKCongNo.resx">
+      <DependentUpon>frmTKCongNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\frmTKDoanhThu.resx">
+      <DependentUpon>frmTKDoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DanhMuc\DanhMuc.csproj">
+      <Project>{C868732F-CCE5-419D-904E-80EC524F6C0F}</Project>
+      <Name>DanhMuc</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HoaDonDataAccess\HoaDonDataAccess.csproj">
+      <Project>{CC13FEB5-094D-4F3D-9D26-38C3948AF807}</Project>
+      <Name>HoaDonDataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HoaDon\HoaDon.csproj">
+      <Project>{E8D4B867-DB56-475B-BB90-07236FA0833F}</Project>
+      <Name>HoaDon</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PhieuNhapKho\PhieuNhapKho.csproj">
+      <Project>{7B285CE5-4325-4DF6-9289-29D15EEC9E3F}</Project>
+      <Name>PhieuNhapKho</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QTHT\QTHT.csproj">
+      <Project>{C07BA54F-140C-423B-BCB5-471CC2A596EB}</Project>
+      <Name>QTHT</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

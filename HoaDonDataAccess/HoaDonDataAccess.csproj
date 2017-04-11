@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CC13FEB5-094D-4F3D-9D26-38C3948AF807}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HoaDonDataAccess</RootNamespace>
+    <AssemblyName>HoaDonDataAccess</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Npgsql">
+      <HintPath>..\QLBH\bin\Debug\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessLogic\tblhoadonbanBL.cs" />
+    <Compile Include="BusinessLogic\tblhoadontraBL.cs" />
+    <Compile Include="BusinessLogic\tblmathangbanBL.cs" />
+    <Compile Include="BusinessLogic\tblmathangtraBL.cs" />
+    <Compile Include="BusinessLogic\tbltienthanhtoanBL.cs" />
+    <Compile Include="BusinessLogic\tienthanhtoanphieunhapBL.cs" />
+    <Compile Include="DataAccess\tienthanhtoanphieunhapDA.cs" />
+    <Compile Include="DataAccess\tblhoadonbanDA.cs" />
+    <Compile Include="DataAccess\tblhoadontraDA.cs" />
+    <Compile Include="DataAccess\tblmathangbanDA.cs" />
+    <Compile Include="DataAccess\tblmathangtraDA.cs" />
+    <Compile Include="DataAccess\tbltienthanhtoanDA.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CGCN.Configure\CGCN.Configure.csproj">
+      <Project>{F42A1E49-00BA-48D9-BBFF-FA5F2F02D2BB}</Project>
+      <Name>CGCN.Configure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CGCN.DataAccess\CGCN.DataAccess.csproj">
+      <Project>{67DE1155-AE5B-4B8A-A422-2603C0972E79}</Project>
+      <Name>CGCN.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CGCN.Framework.DataAccess\CGCN.Framework.csproj">
+      <Project>{26F84A3F-A2D0-4AA4-A53F-884FC99849B7}</Project>
+      <Name>CGCN.Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ultilities\Ultilities.csproj">
+      <Project>{20E6F39D-D995-4020-9047-84EB942303A5}</Project>
+      <Name>Ultilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

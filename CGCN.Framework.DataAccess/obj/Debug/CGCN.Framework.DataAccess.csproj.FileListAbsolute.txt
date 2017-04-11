@@ -1,0 +1,37 @@
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.DataAccess.dll
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.DataAccess.pdb
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.DataAccess.dll
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.DataAccess.pdb
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\Npgsql.dll
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\de\Npgsql.resources.dll
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\es\Npgsql.resources.dll
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\tuanva\Desktop\Temp\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\Mono.Security.dll
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.DataAccess.dll
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.DataAccess.pdb
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\Mono.Security.dll
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\Npgsql.dll
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\de\Npgsql.resources.dll
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\es\Npgsql.resources.dll
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\fi\Npgsql.resources.dll
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\fr\Npgsql.resources.dll
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\ja\Npgsql.resources.dll
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.DataAccess.dll
+D:\2.WORK\2. Project\5. Project 2014\1. QLKho Dia chinh\3. Code\QLKhoDiaChinh\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.DataAccess.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.DataAccess.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\bin\Debug\CGCN.Framework.DataAccess.pdb
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\bin\Debug\de\Npgsql.resources.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\bin\Debug\es\Npgsql.resources.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\bin\Debug\fi\Npgsql.resources.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\bin\Debug\fr\Npgsql.resources.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\bin\Debug\ja\Npgsql.resources.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.DataAccess.csprojResolveAssemblyReference.cache
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.DataAccess.dll
+D:\2.WORK\4. Open project\QuanLyBanHang\QLBH_30-06-2015\QLBH\CGCN.Framework.DataAccess\obj\Debug\CGCN.Framework.DataAccess.pdb

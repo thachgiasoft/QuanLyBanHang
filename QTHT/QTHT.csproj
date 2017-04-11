@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C07BA54F-140C-423B-BCB5-471CC2A596EB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QTHT</RootNamespace>
+    <AssemblyName>QTHT</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Win.C1Command.2, Version=2.0.20083.19417, Culture=neutral, PublicKeyToken=e808566f358766d8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\QLBH\bin\Debug\C1.Win.C1Command.2.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.2, Version=2.6.20083.387, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\QLBH\bin\Debug\C1.Win.C1FlexGrid.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Shared.v8.3, Version=8.3.20083.1009, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.Misc.v8.3, Version=8.3.20083.1009, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinEditors.v8.3, Version=8.3.20083.1009, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinStatusBar.v8.3, Version=8.3.20083.1009, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinTabControl.v8.3, Version=8.3.20083.1009, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinToolbars.v8.3, Version=8.3.20083.1009, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.v8.3, Version=8.3.20083.1009, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="InputValidation">
+      <HintPath>..\QLBH\bin\Debug\InputValidation.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql">
+      <HintPath>..\QLBH\bin\Debug\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessLogic\chucvuBL.cs" />
+    <Compile Include="BusinessLogic\phongbanBL.cs" />
+    <Compile Include="DataAccess\chucvuDA.cs" />
+    <Compile Include="BusinessLogic\logBL.cs" />
+    <Compile Include="DataAccess\logDA.cs" />
+    <Compile Include="BusinessLogic\menuBL.cs" />
+    <Compile Include="DataAccess\menuDA.cs" />
+    <Compile Include="BusinessLogic\nhanvienBL.cs" />
+    <Compile Include="DataAccess\nhanvienDA.cs" />
+    <Compile Include="BusinessLogic\nhomBL.cs" />
+    <Compile Include="DataAccess\nhomDA.cs" />
+    <Compile Include="BusinessLogic\nhom_nhanvienBL.cs" />
+    <Compile Include="DataAccess\nhom_nhanvienDA.cs" />
+    <Compile Include="DataAccess\phongbanDA.cs" />
+    <Compile Include="Interface\frmChangePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmChangePass.Designer.cs">
+      <DependentUpon>frmChangePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\frmChucNang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmChucNang.Designer.cs">
+      <DependentUpon>frmChucNang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\frmManagerUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmManagerUser.Designer.cs">
+      <DependentUpon>frmManagerUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\frmNguoiDungOfNhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmNguoiDungOfNhom.Designer.cs">
+      <DependentUpon>frmNguoiDungOfNhom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\frmNhomNguoiDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmNhomNguoiDung.Designer.cs">
+      <DependentUpon>frmNhomNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\frmPhanQuyenNguoiDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmPhanQuyenNguoiDung.Designer.cs">
+      <DependentUpon>frmPhanQuyenNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\ucChucNang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Interface\ucChucNang.Designer.cs">
+      <DependentUpon>ucChucNang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\ucChucVu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Interface\ucChucVu.Designer.cs">
+      <DependentUpon>ucChucVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\ucDangNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Interface\ucDangNhap.Designer.cs">
+      <DependentUpon>ucDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\ucLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Interface\ucLog.Designer.cs">
+      <DependentUpon>ucLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\ucManagerUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Interface\ucManagerUser.Designer.cs">
+      <DependentUpon>ucManagerUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\ucNguoiDungOfNhom.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Interface\ucNguoiDungOfNhom.Designer.cs">
+      <DependentUpon>ucNguoiDungOfNhom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\ucNhomQuyen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Interface\ucNhomQuyen.Designer.cs">
+      <DependentUpon>ucNhomQuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\ucPhanQuyenNguoiDung.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Interface\ucPhanQuyenNguoiDung.Designer.cs">
+      <DependentUpon>ucPhanQuyenNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\ucPhongBan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Interface\ucPhongBan.Designer.cs">
+      <DependentUpon>ucPhongBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BusinessLogic\quyennguoidungBL.cs" />
+    <Compile Include="DataAccess\quyennguoidungDA.cs" />
+    <Compile Include="BusinessLogic\quyen_nhomBL.cs" />
+    <Compile Include="DataAccess\quyen_nhomDA.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CGCN.DataAccess\CGCN.DataAccess.csproj">
+      <Project>{67DE1155-AE5B-4B8A-A422-2603C0972E79}</Project>
+      <Name>CGCN.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CGCN.Framework.DataAccess\CGCN.Framework.csproj">
+      <Project>{26F84A3F-A2D0-4AA4-A53F-884FC99849B7}</Project>
+      <Name>CGCN.Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ultilities\Ultilities.csproj">
+      <Project>{20E6F39D-D995-4020-9047-84EB942303A5}</Project>
+      <Name>Ultilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Interface\frmChangePass.resx">
+      <DependentUpon>frmChangePass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\frmChucNang.resx">
+      <DependentUpon>frmChucNang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\frmManagerUser.resx">
+      <DependentUpon>frmManagerUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\frmNguoiDungOfNhom.resx">
+      <DependentUpon>frmNguoiDungOfNhom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\frmNhomNguoiDung.resx">
+      <DependentUpon>frmNhomNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\frmPhanQuyenNguoiDung.resx">
+      <DependentUpon>frmPhanQuyenNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\ucChucNang.resx">
+      <DependentUpon>ucChucNang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\ucChucVu.resx">
+      <DependentUpon>ucChucVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\ucDangNhap.resx">
+      <DependentUpon>ucDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\ucLog.resx">
+      <DependentUpon>ucLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\ucManagerUser.resx">
+      <DependentUpon>ucManagerUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\ucNguoiDungOfNhom.resx">
+      <DependentUpon>ucNguoiDungOfNhom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\ucNhomQuyen.resx">
+      <DependentUpon>ucNhomQuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\ucPhanQuyenNguoiDung.resx">
+      <DependentUpon>ucPhanQuyenNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\ucPhongBan.resx">
+      <DependentUpon>ucPhongBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
